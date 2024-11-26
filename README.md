@@ -1,7 +1,6 @@
 # BugzillaScraper
 
-This repository contains a Command Line Interface(CLI) tool designed to extract comprehensive information from Bugzilla repositories. The tool automates the process of querying Bugzilla’s REST API, ensuring consistent and thorough data collection across different instances of Bugzilla. Along with this tool, this repository helps the research community by providing a robust dataset with all the information about key-projects of Eclipse and Mozilla.
-
+This lightweight tool is designed to extract comprehensive information from Bugzilla repositories, automating the process of querying Bugzilla’s REST API, ensuring consistent and thorough data collection across different instances of Bugzilla. Along with this tool, this repository helps the research community by providing a robust dataset with all the information about key-projects of Eclipse and Mozilla. This repository contains a Command Line Interface (CLI) that facilitates the extraction of issue reports in a simple and easy-to-understand manner.
 
 ## Features 
 
