@@ -32,8 +32,12 @@ Our dataset contains the bug reported for 9 popular products/components from Ecl
 | Eclipse     | Mylyn                   |       13.906      |
 | Eclipse     | TPTP                    |       10.579      |
 | Eclipse     | Papyrus                 |       13.253      |
-| Mozilla     | Core                    |        ---        |
-||**Total number of issues:**| --- |
+| Mozilla     | Core                    |      522.355      |
+||**Total number of issues:**| **823.733** |
+
+Dataset can be found on Zenodo: 
+* [Mozilla CORE issue reports](https://doi.org/10.5281/zenodo.14229871)
+* [Eclipse issue reports](https://doi.org/10.5281/zenodo.14229936)
 
 ## Instalation
 
