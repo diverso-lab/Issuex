@@ -85,6 +85,10 @@ issuex run
 ```
 Optionally, you can use --from-date "YYYY-MM-DD" to obtain the issues that were created from that date until today.
 
+```
+issuex run --from-date "2022-01-01"  
+```
+
 ### Execute the tool with default settings
 
 The default setting will automatically get all the issues from the given repository and the classification, product and component specified in the configuration file.
